@@ -51,10 +51,7 @@ Watch the demo video:
 [Watch Video](https://drive.google.com/file/d/1LYUvM_TC0AujgOrNS9q2yK49F7i8uu7A/view?usp=drive_link)
 
 
-Future Improvements
-Unit Testing: Add comprehensive unit tests for core components and services.
-Error Handling: Enhance error handling to provide better user feedback during network issues.
-Performance Optimization: Optimize state and component re-renders for larger data handling.
+
 
 Author
 Asad
