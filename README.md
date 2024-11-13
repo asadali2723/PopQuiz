@@ -38,14 +38,15 @@ Dynamic Profile Screen: Includes logout functionality and additional profile inf
 Demonstration
 Here are some screenshots of the app in action:
 This is a screenshot of the app:
-![App Screenshot](https://drive.google.com/file/d/18TKw_1dGvS718mmCWDXyIO89OLedBn3X/view?usp=drive_link)
-![App Screenshot](https://drive.google.com/file/d/1ZbxNPbiwAra1a19TLZJOnrH52pNYzz2Z/view?usp=drive_link)
-![App Screenshot](https://drive.google.com/file/d/1lQipaaRupMZCUQPv9jlQ2_PzyT3TAhSf/view?usp=sharing)
-![App Screenshot](https://drive.google.com/file/d/1YfGFyw0SzV8cFa5knS_sqp3yEuBVzfcE/view?usp=sharing)
-![App Screenshot](https://drive.google.com/file/d/1_uviMHKmAmaiAZt2fN3WsTIseAR1N-Ex/view?usp=drive_link)
+![App Screenshot](https://drive.google.com/uc?export=view&id=18TKw_1dGvS718mmCWDXyIO89OLedBn3X)
+![App Screenshot](https://drive.google.com/uc?export=view&id=1ZbxNPbiwAra1a19TLZJOnrH52pNYzz2Z)
+![App Screenshot](https://drive.google.com/uc?export=view&id=1lQipaaRupMZCUQPv9jlQ2_PzyT3TAhSf)
+![App Screenshot](https://drive.google.com/uc?export=view&id=1YfGFyw0SzV8cFa5knS_sqp3yEuBVzfcE)
+![App Screenshot](https://drive.google.com/uc?export=view&id=1_uviMHKmAmaiAZt2fN3WsTIseAR1N-Ex)
+
 
 Watch the demo video:
-[![Watch the video](https://drive.google.com/file/d/1LYUvM_TC0AujgOrNS9q2yK49F7i8uu7A/view?usp=drive_link)
+[Watch Video](https://drive.google.com/file/d/1LYUvM_TC0AujgOrNS9q2yK49F7i8uu7A/view?usp=drive_link)
 
 
 Future Improvements
