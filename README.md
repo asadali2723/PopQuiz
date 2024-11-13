@@ -5,10 +5,11 @@ Project Overview
 This app allows users to browse movies, manage a watchlist, and provide ratings. Key functionalities include:
 
     Movie Listings: Display a dynamic list of movies on the dashboard.
-Local Search: Users can search for movies directly on the dashboard.
-Watchlist Management: Users can add movies to a watchlist, view the list on a dedicated screen, and remove or re-rate movies.
-Movie Details: Each movie has a detailed screen with options to add it to the watchlist, rate, or modify existing ratings.
-User Profile: A dynamic profile screen with logout functionality and API integration.
+    Local Search: Users can search for movies directly on the dashboard.
+    Watchlist Management: Users can add movies to a watchlist, view the list on a dedicated screen, and remove or re-rate movies.
+    Movie Details: Each movie has a detailed screen with options to add it to the watchlist, rate, or modify existing ratings.
+    User Profile: A dynamic profile screen with logout functionality and API integration.
+
 Features Implemented
 React Native 0.76: Leveraged the latest React Native version for modern features and performance.
 Redux Saga: Used Redux-Saga for efficient state management and handling side effects.
@@ -19,14 +20,15 @@ TypeScript: Ensured type safety and code quality with TypeScript across all comp
 Project Structure
 The codebase follows a clean and modular structure:
 
-APIs: All API calls are organized in utils/api.ts.
-Screens: Each screen is located in src/screens.
-Components: Reusable UI components are in src/components.
-Constants: Constants and configurations are stored in src/constants.
-Network Service: Additional network service utilities are managed in src/service.
+    APIs: All API calls are organized in utils/api.ts.
+    Screens: Each screen is located in src/screens.
+    Components: Reusable UI components are in src/components.
+    Constants: Constants and configurations are stored in src/constants.
+    Network Service: Additional network service utilities are managed in src/service.
+    
 Getting Started
 Install dependencies:
-npm install
+`npm install && cd ios && pod install && cd ..`
 Run the app:
 npm run android   # For Android
 npm run ios       # For iOS (requires a Mac)
