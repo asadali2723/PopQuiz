@@ -5,10 +5,16 @@ import {AppText} from './appText';
 import {goBack} from '@services/navigationService';
 import {commonStyles} from './styles';
 
-const BackIcon = ({extraStyle}: {extraStyle?: ViewStyle}) => {
+const BackIcon = ({
+  extraStyle,
+  onPress,
+}: {
+  extraStyle?: ViewStyle;
+  onPress?: () => void;
+}) => {
   return (
     <AppPressable
-      onPress={goBack}
+      onPress={onPress ?? goBack}
       style={[commonStyles.backButton, extraStyle]}>
       <AppText style={commonStyles.backText}>‹ Back</AppText>
     </AppPressable>
