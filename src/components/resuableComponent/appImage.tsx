@@ -14,7 +14,7 @@ import {
 } from '@constants';
 import AppPressable from './appPressable';
 
-interface IAppImage {
+export interface IAppImage {
   source: ImageSourcePropType;
   style?: ViewStyle;
   imgStyle?: ImageStyle;

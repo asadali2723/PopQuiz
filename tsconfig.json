@@ -35,5 +35,5 @@
     "jest.config.js",
     "/**/*.spec.ts"
   ],
-  "include": ["./**/*", "./*", ".eslintrc.js"]
+  "include": ["./**/*", "./*", ".eslintrc.js", ".storybook/stories/Button/appText.stories.tsx", ".storybook/stories/appImage.stories.tsx", ".storybook/stories/Button/appPressable.stories.tsx"]
 }
